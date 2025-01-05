@@ -26,7 +26,7 @@ import platform
 import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
-import requests,ba4,uuid,json,os,sys,random,datetime,time,re,subprocess
+import requests,bs4,uuid,json,os,sys,random,datetime,time,re,subprocess
 try:
 	import rich
 except ImportError:
